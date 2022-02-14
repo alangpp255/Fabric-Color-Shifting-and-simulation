@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/86472351/153798289-6ad84330-849e-48a6-bf8d-2d93f7a13ca1.png)  
 2. 主色:  
 ![image](https://user-images.githubusercontent.com/86472351/153798140-ce385557-2411-487e-bc3e-2c112f25e33b.png)  
-3. 辨識後位置:  
+3. KD-tree辨識位置:  
 ![image](https://user-images.githubusercontent.com/86472351/153798204-a23d8efe-5c31-4792-bc6f-1ceeb47af314.png)  
 
 4. 計算HSV差異:  
