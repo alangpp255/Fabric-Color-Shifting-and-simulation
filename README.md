@@ -4,8 +4,10 @@
 模擬布料換色後的圖樣  
 
 ### 研究方法:  
-利用KD-tree分類法，找到預換色布料的主色位置，再將每個分類完的像素點進行顏色調整  
-![image](https://user-images.githubusercontent.com/86472351/153798103-bca37749-0bea-48f8-83e2-8cb262027107.png)   
+利用KD-tree分類法，找到預換色布料的主色位置，再將每個分類完的像素點進行顏色調整 
+  
+預換色布料:  
+![image](https://user-images.githubusercontent.com/86472351/153798289-6ad84330-849e-48a6-bf8d-2d93f7a13ca1.png)
 主色:  
 ![image](https://user-images.githubusercontent.com/86472351/153798140-ce385557-2411-487e-bc3e-2c112f25e33b.png)  
 辨識後位置:  
