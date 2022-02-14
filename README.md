@@ -13,8 +13,14 @@
 ![image](https://user-images.githubusercontent.com/86472351/153798204-a23d8efe-5c31-4792-bc6f-1ceeb47af314.png)  
 
 4. 計算HSV差異:  
-![image](https://user-images.githubusercontent.com/86472351/153798456-1757e7a2-95a2-4cff-bfa5-73bda0956ff9.png)
-##-> ![image](https://user-images.githubusercontent.com/86472351/153798404-aa9a9c4b-6e02-4df9-a68d-6efc06155dc2.png)
+![image](https://user-images.githubusercontent.com/86472351/153798404-aa9a9c4b-6e02-4df9-a68d-6efc06155dc2.png)
+![image](https://user-images.githubusercontent.com/86472351/153798545-9cfa49a9-1a28-47bf-af22-010fa99ed692.png)
+
+5. 依照辨識的位置調整顏色
+
+### 研究結果
+![image](https://user-images.githubusercontent.com/86472351/153798702-c24b6b2e-ecc4-4b85-be6c-6d4e88bc2b83.png)
+
 
 
 
