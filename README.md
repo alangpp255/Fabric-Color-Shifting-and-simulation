@@ -20,6 +20,7 @@
 
 ### 研究結果
 ![image](https://user-images.githubusercontent.com/86472351/153798702-c24b6b2e-ecc4-4b85-be6c-6d4e88bc2b83.png)
+研究結果PPT: https://docs.google.com/presentation/d/1Jb20ELxFrx3rhvVg4niJpuYPqwpMWSJk/edit?usp=sharing&ouid=101846707532909146197&rtpof=true&sd=true
 
 
 
