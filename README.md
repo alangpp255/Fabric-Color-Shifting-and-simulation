@@ -1,7 +1,7 @@
 # fabric_color_shift
 
 ### Objectives:  
-Simulate the pattern of the cloth after color changing
+Generate different color of cloths from single color of cloths.
 
 ### Methods:  
 Use the KD-tree classification method to find the main color position of the objective fabric, and then adjust the color of each classified pixel point
